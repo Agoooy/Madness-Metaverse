@@ -1,6 +1,6 @@
 const Head = () => (
   <>
-    <title>Metaverse Madness - Enter the Metaverse</title>
+    <title>Metaverse Madness</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta charset="UTF-8" />
     <meta name="theme-color" content="#1A232E" />
