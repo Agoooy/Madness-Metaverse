@@ -23,7 +23,7 @@ const Navbar = () => (
         METAVERSE
       </h2>
       <a
-        href="https://github.com/Agoooy"
+        href="https://github.com/Agoooy/Madness-Metaverse"
         target="_blank"
         rel="noreferrer noopener"
         title="Source Code"
